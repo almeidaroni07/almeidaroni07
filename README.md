@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <h4>About:</h4>
+  <h4>Sobre:</h4>
   <p>
   Com uma experiência de 2 anos na área de desenvolvimento de URA, expandi meus conhecimentos para o desenvolvimento web. Trabalhei com diversas tecnologias, incluindo Spring MVC, Spring Boot, JSF, CDI e JPA Hibernate, além de consumir e desenvolver webservices..
   </p>
