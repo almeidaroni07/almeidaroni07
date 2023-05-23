@@ -10,7 +10,7 @@
 </div>
 
 <div align="left">
-  <h4>CONTACTS:</h4>
+  <h4>Contatos:</h4>
   <div>
     <ul>
       <li><a href="https://www.linkedin.com/in/roni-almeida-342304a8/" target="_blank">Linkedin</a></li>
@@ -20,7 +20,7 @@
 </div>
 
 <div align="left">
-  <h4>TECHNOLOGIES:</h4>
+  <h4>Tecnologias:</h4>
   <table  align= "center">
    <tr>
    <a  href="https://skillicons.dev">
