@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center" >
+ 
+</div>
 
-<!--
-**almeidaroni07/almeidaroni07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <h4>About:</h4>
+  <p>
+  Com uma experiência de 2 anos na área de desenvolvimento de URA, expandi meus conhecimentos para o desenvolvimento web. Trabalhei com diversas tecnologias, incluindo Spring MVC, Spring Boot, JSF, CDI e JPA Hibernate, além de consumir e desenvolver webservices..
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<div align="left">
+  <h4>CONTACTS:</h4>
+  <div>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/rw-solutions-9ab070273" target="_blank">Linkedin</a></li>
+      <li><a href="mailto:rwsolutions07@gmail.com" target="_blank">E-mail</a></li>
+    </ul>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <h4>TECHNOLOGIES:</h4>
+  <table  align= "center">
+   <tr>
+   <a  href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,cs,git,java,js,ts" />    
+  </a>
+ </tr>
+  </table>  
+</div>
+
+
+  <h4>CO-FOUNDERS:</h4>
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/almeidaroni07">
+        <img src="https://avatars.githubusercontent.com/u/22482153?v=4" width="100px" heigth="100px"/><br>
+        <sub>
+          <b>Roni Almeida</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
