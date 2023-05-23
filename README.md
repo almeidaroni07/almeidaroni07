@@ -24,7 +24,7 @@
   <table  align= "center">
    <tr>
    <a  href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,cs,git,java,js,ts" />    
+    <img src="https://skillicons.dev/icons?i=angular,git,java,js,ts" />    
   </a>
  </tr>
   </table>  
