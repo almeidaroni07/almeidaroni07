@@ -13,8 +13,8 @@
   <h4>CONTACTS:</h4>
   <div>
     <ul>
-      <li><a href="https://www.linkedin.com/in/rw-solutions-9ab070273" target="_blank">Linkedin</a></li>
-      <li><a href="mailto:rwsolutions07@gmail.com" target="_blank">E-mail</a></li>
+      <li><a href="https://www.linkedin.com/in/roni-almeida-342304a8/" target="_blank">Linkedin</a></li>
+      <li><a href="mailto:almeidaroni07@gmail.com" target="_blank">E-mail</a></li>
     </ul>
   </div>
 </div>
